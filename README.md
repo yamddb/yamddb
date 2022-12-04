@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **statistics and excel**
 - 💞️ I’m looking to collaborate on **open source** projects
 - 📫 These are my social:
--      Twitter [https://twitter.com/yamddb]
+-      [Twitter] [https://twitter.com/yamddb]
 -      Telegram [https://t.me/yamddb]
 
 <!---
