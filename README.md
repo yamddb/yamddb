@@ -1,7 +1,5 @@
 - 👋 Hi, I’m **Yam**
-- 👀 I’m interested in **data analytics, languages and sports**
-- 🌱 I’m currently learning **statistics and excel**
-- 💞️ I’m looking to collaborate on **open source** projects
+- 👀 I’m interested in **data analytics, programming and languages**
 - 📫 You can find me on Twitter or Telegram as *@yamddb*
 
 <!---
